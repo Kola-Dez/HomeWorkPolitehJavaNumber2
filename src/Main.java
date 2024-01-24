@@ -19,5 +19,3 @@ public class Main {
         }
     }
 }
-//java Main.java 12
-// D:\Vsaka\Projects\Progects\Java-project\HomeWorkNum2\src>
